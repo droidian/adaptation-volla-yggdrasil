@@ -1,4 +1,5 @@
 /etc/modules-load.d
 /etc/udev/rules.d
 /etc/phosh
+/etc/pulse
 /usr/lib/adaptation-volla-yggdrasil
