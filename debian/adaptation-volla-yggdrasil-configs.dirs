@@ -2,4 +2,5 @@
 /etc/udev/rules.d
 /etc/phosh
 /etc/pulse
+/etc/flash-bootimage
 /usr/lib/adaptation-volla-yggdrasil
