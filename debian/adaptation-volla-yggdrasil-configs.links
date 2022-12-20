@@ -1,2 +1,3 @@
 /usr/lib/adaptation-volla-yggdrasil/droid-get-bt-address.sh /usr/bin/droid/droid-get-bt-address.sh
+/usr/lib/adaptation-volla-yggdrasil/droidian-yggdrasil-wlan-enable.sh /usr/bin/droidian-yggdrasil-wlan-enable.sh
 /usr/lib/adaptation-volla-yggdrasil/vendor-overlay /usr/lib/droid-vendor-overlay

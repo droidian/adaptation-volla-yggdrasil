@@ -4,7 +4,7 @@ After=lxc@android.service
 
 [Service]
 Type=oneshot
-ExecStart=/usr/bin/bash -c "sleep 20; echo 1 > /dev/wmtWifi"
+ExecStart=/usr/bin/droidian-yggdrasil-wlan-enable.sh
 
 [Install]
 WantedBy=multi-user.target
