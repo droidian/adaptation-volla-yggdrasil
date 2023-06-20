@@ -4,3 +4,4 @@
 /etc/pulse
 /etc/flash-bootimage
 /usr/lib/adaptation-volla-yggdrasil
+/usr/share/glib-2.0/schemas
