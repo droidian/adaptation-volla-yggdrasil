@@ -13,6 +13,7 @@ Depends: ${misc:Depends},
          linux-bootimage-volla-yggdrasil,
          adaptation-hybris-api28-phone,
          adaptation-volla-yggdrasil-configs,
+         droidian-camera,
 Description: adapatation-volla-yggdrasil - meta
  Volla Phone api28 adaptation metapackage
 
