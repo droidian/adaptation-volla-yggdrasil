@@ -1,11 +1,11 @@
 Source: adaptation-volla-yggdrasil
-Maintainer: Erik Inkinen <erik.inkinen@gmail.com>
+Maintainer: Erik Inkinen <erik.inkinen@erikinkinen.fi>
 Section: metapackages
 Priority: optional
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.5.0.3
-Vcs-Browser: https://github.com/droidian/adaptation-volla-yggdrasil
-Vcs-Git: https://github.com/hybris-mobian-releng/adaptation-volla-yggdrasil.git
+Vcs-Browser: https://github.com/droidian-devices/adaptation-volla-yggdrasil
+Vcs-Git: https://github.com/droidian-devices/adaptation-volla-yggdrasil.git
 
 Package: adaptation-volla-yggdrasil
 Architecture: all
